@@ -21,4 +21,9 @@ The player's task is to follow the signal given by the angel, which seems to be 
 The signal including a tap and a slide, with uncertain starting point and destination.
 
 
+Cognition related:
+
+1. Find angel
+
+The player's task is to find angel hidden in a picture / find angel in nearby place (involve AR technology)
 
