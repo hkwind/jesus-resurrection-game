@@ -18,3 +18,4 @@ Mini Game in the game:
 
 The player's task is to follow the signal given by the angel, which seems to be able to weaken the devil. 
 The signal including a tap and a slide, with uncertain starting point and destination.
+The signal may recreate the music of 豎琴、擊鼓、吹笛
